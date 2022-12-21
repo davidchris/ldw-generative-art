@@ -19,8 +19,8 @@ Prompts and parameters used for generating the images can be found under `image_
 ## Process
 
 - We are running Stable Diffusion locally on a Linux desktop (with a NVIDIA RTX 3090)
-- Running the code from a jupyter notebook 
-- We then iterated on the prompt and parameters inside the notebook 
+- Running the code from a jupyter notebook
+- We then iterated on the prompt and parameters inside the notebook
 - All prompts, parameters and images are saved locally
 - At last, the images we liked where saved to a specific folder
 
@@ -28,4 +28,3 @@ Prompts and parameters used for generating the images can be found under `image_
 
 - <https://huggingface.co/blog/diffusers-2nd-month#image-to-image-pipeline>
 - <https://huggingface.co/stabilityai/stable-diffusion-2>
-
