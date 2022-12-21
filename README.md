@@ -2,7 +2,7 @@
 
 Main workflow is in `notebooks/tf-cockpunch-ai-art.ipynb`.
 
-Install environment via 
+Install conda environment via:
 
 ```shell
 conda env create -f environment.yaml
