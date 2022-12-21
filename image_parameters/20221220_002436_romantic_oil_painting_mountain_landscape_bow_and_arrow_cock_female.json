@@ -1,0 +1,9 @@
+{
+    "prompt": "romantic oil painting, mountain landscape, bow and arrow, cock, female",
+    "seed": 42,
+    "scale": 7.5,
+    "strength": 0.55,
+    "steps": 100,
+    "creator": "LDW",
+    "init_image_no": 487
+}

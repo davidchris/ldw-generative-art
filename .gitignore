@@ -1,0 +1,4 @@
+.virtual_documents/
+initial_images/
+process_images/
+*/.ipynb_checkpoints/*
